@@ -1,0 +1,24 @@
+
+(glade-3:4952): GladeUI-WARNING **: No icon named 'widget-gtk-menushell' was found for widget class 'GtkMenuShell'.
+GladeUI-Message: No displayable values for property GtkEntry::shadow-type
+GladeUI-Message: 1 missing displayable value for GtkButtonBox::layout-style
+
+(glade-3:4952): Gtk-CRITICAL **: gtk_list_store_clear: assertion `GTK_IS_LIST_STORE (list_store)' failed
+
+(glade-3:4952): Gtk-CRITICAL **: gtk_combo_box_append_text: assertion `GTK_IS_LIST_STORE (combo_box->priv->model)' failed
+
+(glade-3:4952): Gtk-CRITICAL **: gtk_combo_box_append_text: assertion `GTK_IS_LIST_STORE (combo_box->priv->model)' failed
+
+(glade-3:4952): Gtk-CRITICAL **: gtk_combo_box_append_text: assertion `GTK_IS_LIST_STORE (combo_box->priv->model)' failed
+
+(glade-3:4952): Gtk-CRITICAL **: gtk_combo_box_append_text: assertion `GTK_IS_LIST_STORE (combo_box->priv->model)' failed
+
+(glade-3:4952): Gtk-CRITICAL **: gtk_combo_box_entry_set_text_column: assertion `text_column >= 0' failed
+
+(glade-3:4952): Gtk-CRITICAL **: gtk_list_store_clear: assertion `GTK_IS_LIST_STORE (list_store)' failed
+
+(glade-3:4952): Gtk-CRITICAL **: gtk_combo_box_entry_set_text_column: assertion `text_column >= 0' failed
+
+(glade-3:4952): Gdk-CRITICAL **: gdk_window_set_skip_taskbar_hint: assertion `GDK_WINDOW_TYPE (window) != GDK_WINDOW_CHILD' failed
+
+(glade-3:4952): Gdk-CRITICAL **: gdk_window_set_skip_pager_hint: assertion `GDK_WINDOW_TYPE (window) != GDK_WINDOW_CHILD' failed

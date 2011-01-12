@@ -1,0 +1,33 @@
+Work Experience
+-----------------------------------
+Company Name | Date Started | Date Ended | Job Title | Description of Duties
+-----------------------------------
+
+Education
+-----------------------------------
+School Name | Date Started | Date Graduated/Ended | Degree Type | Field of Study
+-----------------------------------
+
+Personal Info
+-----------------------------------
+Data | Type | Name
+-----------------------------------
+#additional personal info?
+
+Skills
+-----------------------------------
+Skill Class | Skill Name | Skill Description
+-----------------------------------
+#not sure?
+
+Other Experience
+-----------------------------------
+Experience Name | Date Started | Date Ended | Description
+-----------------------------------
+
+References
+-----------------------------------
+Contact Name | Company Name [null] | Phone | Phone Ext [null] | Email [null] | Fax [null] | Description
+-----------------------------------
+
+#need to store something like Suburb/Prefecture/Bronx/county? for addresses
